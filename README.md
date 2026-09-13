@@ -77,23 +77,23 @@ These Slicers allow the user to interactively filter the data and view the analy
 ![table](table.png)
 ### Pivot Table
 
-![pivot tables](pivot tables.png)
+![pivot tables](pivot_tables.png)
 
 ### Department Slicer
 
-![department slicer](department slicer.png)
+![department slicer](department_slicer.png)
 
 ### City Slicer
 
-![city slicer](city slicer.png)
+![city slicer](city_slicer.png)
 
 ### Gender Slicer
 
-![Gender Slicer](Screenshots/Gender%20Slicer.png)
+![Gender Slicer](gender_slicer.png)
 
 ### Bar Chart
 
-![Bar Chart](Screenshots/Bar%20Chart.png)
+![Bar Chart](Bar_chart.png)
 
 ##  Project Files
 
