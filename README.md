@@ -98,7 +98,6 @@ These Slicers allow the user to interactively filter the data and view the analy
 ##  Project Files
 
 - `Employee_data_analysis.xlsx` – Complete Excel analysis file
-- `Screenshots/` – Screenshots of the analysis, Pivot Table, Slicers, and Bar Chart
 
 ##  Key Learning
 
