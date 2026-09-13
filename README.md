@@ -77,7 +77,7 @@ These Slicers allow the user to interactively filter the data and view the analy
 ![table](table.png)
 ### Pivot Table
 
-![Pivot Table](Screenshots/Pivot%20Table.png)
+![pivot Table](pivot tables.png)
 
 ### Department Slicer
 
