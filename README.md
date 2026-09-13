@@ -1,12 +1,12 @@
 # Employee Data Analysis Using Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing employee data using Microsoft Excel.
 
 I used an employee dataset and performed different analysis tasks to find useful information from the data. I answered business-related questions using Excel formulas and also created Pivot Tables, a Bar Chart, and interactive Slicers.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to:
 
@@ -17,7 +17,7 @@ The main objective of this project is to:
 - Visualize data using a Bar Chart
 - Use Slicers to filter and analyze data interactively
 
-## 🛠️ Tools & Features Used
+##  Tools & Features Used
 
 - Microsoft Excel
 - Excel Formulas
@@ -27,13 +27,13 @@ The main objective of this project is to:
 - Slicers
 - Data Analysis
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains employee-related information such as employee details, department, city, gender, and other employee attributes.
 
 The dataset was used to perform different analysis questions and create summaries and visualizations.
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 In this project, I created questions based on the employee dataset and found their answers using Excel.
 
@@ -48,19 +48,19 @@ The analysis includes:
 - Gender-wise analysis
 - Chart-based visualization
 
-## 📈 Pivot Table
+##  Pivot Table
 
 I created Pivot Tables to summarize the employee data and make the analysis easier to understand.
 
 Pivot Tables were used to organize and summarize the data based on different categories.
 
-## 📊 Bar Chart
+##  Bar Chart
 
 A Bar Chart was created to visually represent the analyzed employee data.
 
 Charts make it easier to compare values and understand patterns in the data.
 
-## 🎛️ Interactive Slicers
+##  Interactive Slicers
 
 I added three Slicers to make the Excel analysis interactive:
 
@@ -70,12 +70,11 @@ I added three Slicers to make the Excel analysis interactive:
 
 These Slicers allow the user to interactively filter the data and view the analysis based on selected categories.
 
-## 📷 Project Screenshots
+##  Project Screenshots
 
-### Employee Data / Questions & Answers
+## Employee table 
 
-![Employee Data](Screenshots/Table.png)
-
+![table](table.png)
 ### Pivot Table
 
 ![Pivot Table](Screenshots/Pivot%20Table.png)
@@ -96,12 +95,12 @@ These Slicers allow the user to interactively filter the data and view the analy
 
 ![Bar Chart](Screenshots/Bar%20Chart.png)
 
-## 📁 Project Files
+##  Project Files
 
 - `Employee_data_analysis.xlsx` – Complete Excel analysis file
 - `Screenshots/` – Screenshots of the analysis, Pivot Table, Slicers, and Bar Chart
 
-## 💡 Key Learning
+##  Key Learning
 
 Through this project, I learned how to:
 
@@ -113,7 +112,7 @@ Through this project, I learned how to:
 - Use Slicers for interactive data filtering
 - Present data analysis in a clear and understandable way
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project helped me understand how Excel can be used for real-world data analysis. It also improved my practical knowledge of data analysis, summarization, and visualization.
 
